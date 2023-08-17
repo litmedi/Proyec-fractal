@@ -1,5 +1,7 @@
-
 ## PROYECTO GATO-FRACTAL
+![Gato fractal](https://th.bing.com/th/id/OIP._TlABbLk0N_NUTpLTjjwXwAAAA?pid=ImgDet&rs=1
+)
+
 ## INFORMACION IMPORTANTE
 
  - [¿Que es un fractal?](https://ladefinicion.com/fractal/)
@@ -15,7 +17,6 @@
 
 - [@OceanFire354](https://github.com/OceanFire354)
 
-
-
+<img src= "https://code.visualstudio.com/assets/images/code-stable.png" alt="vs" width="300">
 
 
